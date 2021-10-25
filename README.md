@@ -15,6 +15,6 @@ Model Skateboard created in onshape w/ seperate parts of the deck, wheels, and t
 ![image](https://user-images.githubusercontent.com/71345181/138709886-79b322b0-da80-46f5-98f7-3e95aae27c35.png)
 
 ### Reflection
-Creation was simple since it was just following instructions given with gifs of exactly what to do. 
+Creation was simple since it was just following instructions given with gifs of exactly what to do. (Literally just following instructions to finish it all)
 Keep in mind to not forget to use the "use tool"
 Mirror things such as screws by selecting the screw then the face of the object its getting mirrored on so that screw only needs to be placed once.
