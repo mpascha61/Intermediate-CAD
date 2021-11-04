@@ -18,7 +18,7 @@ First part of the skateboard as well as simplest to create, holds everything tog
 ![image](https://user-images.githubusercontent.com/71345181/140325372-88bb6798-7cb5-46bf-9ac7-2a6f7c17e36c.png)
 
 ### Reflection
--Remember to drag along lines to create them exactly straight before placing
+-Remember to drag along lines to create them exactly straight before placing sketches
 
 ### 2.2 Trucks 
 ### Description
