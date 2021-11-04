@@ -37,7 +37,7 @@ Third part in the process of the creation of the skateboard, gets mated around a
 ![image](https://user-images.githubusercontent.com/71345181/140325550-e2e065d8-6060-43c5-a22e-be7f08382b6e.png)
 
 ### Reflection
-Super short design time, remember to flip extrudes the correct direction
+Be default extrusion of the bearing sends it in the direction of the wheel, needs to be flipped
 
 ### 2.4 All Put Together
 ### Description
