@@ -11,7 +11,7 @@
 ### Description
 Model Skateboard created in onshape w/ seperate parts of the deck, wheels, and trucks
 
-2.1 Deck
+### 2.1 Deck
 ### Description
 First part of the skateboard as well as simplest to create, holds everything together
 
@@ -20,7 +20,7 @@ First part of the skateboard as well as simplest to create, holds everything tog
 ### Reflection
 -Remember to drag along lines to create them exactly straight before placing
 
-2.2 Trucks 
+### 2.2 Trucks 
 ### Description
 Second part of the skateboard that consists of the baseplate, hanger, and bushing
 
@@ -30,7 +30,7 @@ Second part of the skateboard that consists of the baseplate, hanger, and bushin
 Creation was simple since it was just following instructions given with gifs of exactly what to do. (Literally just following instructions to finish it all)
 Keep in mind to not forget to use the "use tool"
 
-2.3 Wheel/Bearings
+### 2.3 Wheel/Bearings
 ### Description
 Third part in the process of the creation of the skateboard, gets mated around a point in the trucks
 
@@ -39,7 +39,7 @@ Third part in the process of the creation of the skateboard, gets mated around a
 ### Reflection
 Super short design time, remember to flip extrudes the correct direction
 
-2.4 All Put Together
+### 2.4 All Put Together
 ### Description
 Final product, all 3 parts together in an assembly
 
