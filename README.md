@@ -47,3 +47,22 @@ Final product, all 3 parts together in an assembly
 
 ### Reflection
 Mirror things such as screws by selecting the screw then the face of the object its getting mirrored on so that screw only needs to be placed once.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 3.1 - Creation of The First Brick
+### Description
+2x4 sized lego brick, linear patterns used to simplify creation of studs
+
+![image](https://user-images.githubusercontent.com/71345181/140953039-38e398e9-174f-4fb8-8734-38eebef07c93.png)
+
+### Reflection
+First time using variables in CAD, highly usefull for having to repeat the use of number(s) in part studios
+
+### 3.2 - Expanding the Brick 
+Added a mass of configurations, allowing the user to freely change the size of the brick by controlling the studs, for example 2x4-1x2, as well as whether it is a brick, plate, or tile, as well as being able to change the color (red/blue/yellow in this case)
+
+![image](https://user-images.githubusercontent.com/71345181/140954821-73e557b2-29a7-4b59-aaee-8a6d703793d1.png)
+
+### Reflection
+Many steps of this aren't fully understandble to me as of right now, but it was a smooth process with no speedbumps
