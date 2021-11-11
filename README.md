@@ -65,4 +65,13 @@ Added a mass of configurations, allowing the user to freely change the size of t
 ![image](https://user-images.githubusercontent.com/71345181/140954821-73e557b2-29a7-4b59-aaee-8a6d703793d1.png)
 
 ### Reflection
-Many steps of this aren't fully understandble to me as of right now, but it was a smooth process with no speedbumps
+Creation requires a lot of patience the first time, majority of this step is setting up the variables/configurations of them.
+
+### 3.3 - Building the Duck
+### Description
+Final assembly using the differently sized lego bricks to create a lego duck using snap mode
+
+![image](https://user-images.githubusercontent.com/71345181/141314840-e1b83d65-6b35-49e2-bedd-8a5e6a7efacf.png)
+
+### Reflection
+Assembling the duck in the end, only 1/4-8 mate connectors showed up when trying to snap the parts together, making it impossible due to the lack of mate connectors shown up, to fix it I went back to the part studio, edited linear pattern 1 and applied show per instance under the second direction of the pattern.
